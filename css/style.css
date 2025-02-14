@@ -75,7 +75,7 @@ body{
 /* DESCRIPTION */
 
 .description{
-    font-size: 1rem; 
+    font-size: 15px; 
     margin-bottom: 30px;
     color: #ffffff;    
 }
@@ -88,7 +88,7 @@ body{
 
 .button a{
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 15px;
     color: #111;
 }
 
